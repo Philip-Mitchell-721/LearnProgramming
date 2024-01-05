@@ -1,5 +1,5 @@
 # LearnProgramming
-Here are some free beginner-friendly resources.  I didn't list them in any particular order.
+Here are some free beginner-friendly resources.  I didn't list them in any particular order.  There is so much out there, but this is just a taste.  If you want more or have any other questions, please ask me.
 <br><br>
 # CS50
 [Harvards CS50 Course 2024](https://cs50.harvard.edu/x/2024/) <br>
