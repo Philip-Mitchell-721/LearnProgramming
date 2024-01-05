@@ -3,7 +3,7 @@ Here are some free beginner-friendly resources.  There is so much out there, but
 <br><br>
 # CS50
 [Harvards CS50 Course 2024](https://cs50.harvard.edu/x/2024/) <br>
-        - This is a great introduction to computer science and general programming concepts.<br>
+        - This is a great introduction to computer science and general programming concepts.  It has a high production value and is fun to watch.<br>
         - There is a video and related material for each week.  To get the most out of this, watch the video, then watch any sections/shorts available, then complete the problem set for the week.<br>
    
 <br><br>
