@@ -24,6 +24,8 @@ TOP will teach you how to create web apps through the use of HTML, CSS, JavaScri
 
 I tend to learn faster through videos, however, I've completed a good portion of TOP, and I found that it was more thorough and filled in gaps in my knowledge.
 
+**Note:** TOP wants you to use Linux and are adamant about it. I don't use Linux because I don't have to do it for work, however I think it is a good skill to learn (one I intend on learning at some point, whenever I have time between the things I have to learn for work). They walk you through how to do it, so don't worry if you haven't used it before.
+
 <br><br>
 
 # Dave Gray
