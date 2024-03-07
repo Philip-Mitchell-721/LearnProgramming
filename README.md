@@ -2,7 +2,9 @@
 
 #### Here are some free beginner-friendly resources. There is so much out there, but this is just a taste. If you want more or have any other questions, please ask me.
 
-## <br><br>
+<br>
+
+---
 
 # CS50
 
@@ -14,7 +16,9 @@ There is a video and related material for each week. To get the most out of this
 
 The problem sets are the most important part of this course. They are where you will learn the most. They are also the most difficult part of the course. Don't be discouraged if you struggle with them. They are designed to be difficult. Also, you don't need to create an account to complete the problem sets, but you will need to create an account to submit them for grading.
 
-## <br><br>
+<br>
+
+---
 
 # The Odin Project
 
@@ -26,7 +30,9 @@ I tend to learn faster through videos, however, I've completed a good portion of
 
 **Note:** TOP wants you to use Linux and are adamant about it. I don't use Linux because I don't have to do it for work, however I think it is a good skill to learn (one I intend on learning at some point, whenever I have time between the things I have to learn for work). They walk you through how to do it, so don't worry if you haven't used it before.
 
-## <br><br>
+<br>
+
+---
 
 # Dave Gray
 
@@ -44,7 +50,9 @@ The only thing I would add to this playlist is a section on Git. Git is a versio
 
 This is a good place to start with Git. It's a bit of a pain to learn, but it's very important. I would recommend learning it after you have a good understanding of HTML/CSS and JavaScript. There is much more to git, but this will get you rolling with it.
 
-## <br><br>
+<br>
+
+---
 
 # C#
 
