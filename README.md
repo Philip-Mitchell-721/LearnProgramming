@@ -12,7 +12,7 @@ This is a great introduction to computer science and general programming concept
 
 There is a video and related material for each week. To get the most out of this, watch the video, then watch any shorts and sections available, then complete the problem set for the week.
 
-The problem sets are the most important part of this course. They are where you will learn the most. They are also the most difficult part of the course. Don't be discouraged if you struggle with them. They are designed to be difficult.
+The problem sets are the most important part of this course. They are where you will learn the most. They are also the most difficult part of the course. Don't be discouraged if you struggle with them. They are designed to be difficult. Also, you don't need to create an account to complete the problem sets, but you will need to create an account to submit them for grading.
 
 ## <br><br>
 
