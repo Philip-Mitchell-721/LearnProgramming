@@ -61,3 +61,8 @@ This is a good place to start with Git. It's a bit of a pain to learn, but it's 
 Good intro to C# and programming basics. This video (well, an earlier version of it) was my very first introduction to anything programming, so it holds a special place in my heart.
 
 C# is the primary language I use for my job. It's a great language, but it's fully dependent on what jobs are available to you in the end. I think that JavaScript and Python are a bit more widely used, so they might be better to start with. Once you know JavaScript and/or Python, learning C# or any other language will be relatively easy. They are all very similar in concept; they just use different syntax to achieve/implement those concepts.
+<br>
+
+[C# Fundamentals on Dometrain](https://dometrain.com/course/getting-started-csharp/) <br>
+
+Dometrain has some great courses. This one is free if you sign up by the end of March. Once you're signed up and enrolled in it, you can do it whenever you want (you don't have to complete it right now).
